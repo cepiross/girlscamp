@@ -1,7 +1,8 @@
-# girlscamp
+# girls camp
 PennState CSE Girls Summer Camp (July 17-21, 2017)
 ============
-Refer to http://www.eecs.psu.edu/community/EECS-Computer-Science-Camp.aspx for details.
+Refer to http://www.eecs.psu.edu/community/EECS-Computer-Science-Camp.aspx for details. <br>
+Activity Snippet: https://youtu.be/xRrSHXPPcok
 
 Table of Hands on Lab contents :
   * Transforming pictures (Day 1)

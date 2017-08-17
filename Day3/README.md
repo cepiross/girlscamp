@@ -1,6 +1,6 @@
 Day 3 - Training computers to recognize objects (July 19, 2017 Wed)
 ------------
-This lecture introduced object recognition based on [Speeded Up Robust Features (SURF)](https://en.wikipedia.org/wiki/Speeded_up_robust_features) and [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network) To be specific, the following items are dealt with:
+This lecture introduced object recognition based on [Speeded Up Robust Features (SURF)](https://en.wikipedia.org/wiki/Speeded_up_robust_features) and [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network). To be specific, the following items are dealt with:
 
 1. SURF training on the fly
    * [JeVois](https://jevois.org/doc) Smart Machine Vision Camera 
